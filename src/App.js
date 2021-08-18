@@ -65,10 +65,10 @@ function App() {
                 onClick={() => handleFilterClick(filter)}
               >
                 <div>
-                  <span className="bg-blue-500 text-blue-100 p-2 lg:mb-0">
+                  <span className="bg-blue-100 text-blue-500 p-2 lg:mb-0">
                     {filter}
                   </span>
-                  <span className="bg-blue-700 text-blue-100 p-2 lg:mb-0">
+                  <span className="bg-blue-500 text-blue-100 p-2 lg:mb-0">
                     x
                   </span>
                 </div>
